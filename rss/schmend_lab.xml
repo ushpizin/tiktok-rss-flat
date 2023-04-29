@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@schmend_lab</id>
   <title>schmend_lab TikTok</title>
-  <updated>2023-04-22T02:07:53+00:00</updated>
+  <updated>2023-04-29T16:59:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -43,5 +43,13 @@
     <content>סיפורה העצוב של שרית "סיר ג'חנון"</content>
     <link href="https://tiktok.com/@schmend_lab/video/7224689524633390337" rel="alternate"/>
     <published>2023-04-22T02:07:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@schmend_lab/video/7227517576530775298</id>
+    <title>האמת הכואבת מאחורי הטיול השנתי בפנימייה</title>
+    <updated>2023-04-29T16:59:39+00:00</updated>
+    <content>האמת הכואבת מאחורי הטיול השנתי בפנימייה</content>
+    <link href="https://tiktok.com/@schmend_lab/video/7227517576530775298" rel="alternate"/>
+    <published>2023-04-29T16:59:39+00:00</published>
   </entry>
 </feed>
