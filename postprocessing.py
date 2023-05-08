@@ -30,7 +30,7 @@ async def run(csvuser):
         fg.id('https://tiktok.com/@' + csvuser)
         fg.title(csvuser + ' TikTok')
         fg.author( {'name':'Conor ONeill','email':'conor@conoroneill.com'} )
-        fg.link( href='http://tiktok.com', rel='alternate' )
+        fg.link( href='https://tiktok.com/@' + csvuser, rel='alternate' )
         fg.logo(ghPagesURL + 'tiktok-rss.png')
         fg.subtitle('OK Boomer, all the latest TikToks from ' + csvuser)
         fg.link( href=ghPagesURL + 'rss/' + csvuser + '.xml', rel='self' )
