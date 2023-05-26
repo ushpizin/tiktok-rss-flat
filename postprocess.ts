@@ -4,6 +4,9 @@ const apt_install = Deno.run({
 
 await apt_install.status();
 
+await Deno.run({
+  cmd: ['python', '-m', 'pip', 'install', '--upgrade', 'pip'],
+}).status();
 
 // install requirements with pip
 const pip_install = Deno.run({
