@@ -42,6 +42,9 @@ async def run(csvuser):
         async with AsyncTikTokAPI(navigation_retries=3, navigation_timeout=60) as api:
             tiktokuser = await api.user(csvuser, video_limit=maxItems)
             async for video in tiktokuser.videos:
+                if video is None:
+                    continue
+
                 # print(video.create_time, video.desc)
                 print("URL = " + "https://tiktok.com/@" + csvuser + "/video/" + str(video.id))
                 fe = fg.add_entry()
