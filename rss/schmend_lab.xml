@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@schmend_lab</id>
   <title>schmend_lab TikTok</title>
-  <updated>2023-04-29T16:59:39+00:00</updated>
+  <updated>2023-05-16T01:53:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,43 +13,35 @@
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from schmend_lab</subtitle>
   <entry>
-    <id>https://tiktok.com/@schmend_lab/video/7224663467632954626</id>
-    <title>איציק הסיני - שיר האירוח</title>
-    <updated>2023-04-22T00:31:18+00:00</updated>
-    <content>איציק הסיני - שיר האירוח</content>
-    <link href="https://tiktok.com/@schmend_lab/video/7224663467632954626" rel="alternate"/>
-    <published>2023-04-22T00:31:18+00:00</published>
+    <id>https://tiktok.com/@schmend_lab/video/7233586981551312130</id>
+    <title>יום שישי</title>
+    <updated>2023-05-16T01:32:04+00:00</updated>
+    <content>יום שישי</content>
+    <link href="https://tiktok.com/@schmend_lab/video/7233586981551312130" rel="alternate"/>
+    <published>2023-05-16T01:32:04+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@schmend_lab/video/7224667825946840321</id>
-    <title>יפית המיסכנה.. לא הולך לה בתל אביב</title>
-    <updated>2023-04-22T00:46:34+00:00</updated>
-    <content>יפית המיסכנה.. לא הולך לה בתל אביב</content>
-    <link href="https://tiktok.com/@schmend_lab/video/7224667825946840321" rel="alternate"/>
-    <published>2023-04-22T00:46:34+00:00</published>
+    <id>https://tiktok.com/@schmend_lab/video/7233588228798942465</id>
+    <title>אבי ביטר חלקלק</title>
+    <updated>2023-05-16T01:36:58+00:00</updated>
+    <content>אבי ביטר חלקלק</content>
+    <link href="https://tiktok.com/@schmend_lab/video/7233588228798942465" rel="alternate"/>
+    <published>2023-05-16T01:36:58+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@schmend_lab/video/7224668268311743746</id>
-    <title>איציק הסיני יוצא על אפרת 200 קמ"ש בזארה</title>
-    <updated>2023-04-22T00:47:43+00:00</updated>
-    <content>איציק הסיני יוצא על אפרת 200 קמ"ש בזארה</content>
-    <link href="https://tiktok.com/@schmend_lab/video/7224668268311743746" rel="alternate"/>
-    <published>2023-04-22T00:47:43+00:00</published>
+    <id>https://tiktok.com/@schmend_lab/video/7233590957399117057</id>
+    <title>אבי ביטר בוכה עם דאבסטפ</title>
+    <updated>2023-05-16T01:47:29+00:00</updated>
+    <content>אבי ביטר בוכה עם דאבסטפ</content>
+    <link href="https://tiktok.com/@schmend_lab/video/7233590957399117057" rel="alternate"/>
+    <published>2023-05-16T01:47:29+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@schmend_lab/video/7224689524633390337</id>
-    <title>סיפורה העצוב של שרית "סיר ג'חנון"</title>
-    <updated>2023-04-22T02:07:53+00:00</updated>
-    <content>סיפורה העצוב של שרית "סיר ג'חנון"</content>
-    <link href="https://tiktok.com/@schmend_lab/video/7224689524633390337" rel="alternate"/>
-    <published>2023-04-22T02:07:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@schmend_lab/video/7227517576530775298</id>
-    <title>האמת הכואבת מאחורי הטיול השנתי בפנימייה</title>
-    <updated>2023-04-29T16:59:39+00:00</updated>
-    <content>האמת הכואבת מאחורי הטיול השנתי בפנימייה</content>
-    <link href="https://tiktok.com/@schmend_lab/video/7227517576530775298" rel="alternate"/>
-    <published>2023-04-29T16:59:39+00:00</published>
+    <id>https://tiktok.com/@schmend_lab/video/7233592410423495938</id>
+    <title>אבי ביטר השמח</title>
+    <updated>2023-05-16T01:53:08+00:00</updated>
+    <content>אבי ביטר השמח</content>
+    <link href="https://tiktok.com/@schmend_lab/video/7233592410423495938" rel="alternate"/>
+    <published>2023-05-16T01:53:08+00:00</published>
   </entry>
 </feed>
