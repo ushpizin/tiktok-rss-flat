@@ -1,4 +1,4 @@
 asyncio
 feedgen
-tiktokapipy @ git+https://github.com/ushpizin/TikTokPy@main
+tiktokapipy@git+https://github.com/ushpizin/TikTokPy@main
 
