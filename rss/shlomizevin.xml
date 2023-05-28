@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-05-25T07:59:12+00:00</updated>
+  <updated>2023-05-28T16:41:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7236449257677393154</id>
-    <title>וואו וואו וואו! מי שלא מגיע מחר לביס פראייר של הלייפ! #תלמידשרוט  #תלמיד #ביתספר #הומור </title>
-    <updated>2023-05-23T18:39:05+00:00</updated>
-    <content>וואו וואו וואו! מי שלא מגיע מחר לביס פראייר של הלייפ! #תלמידשרוט  #תלמיד #ביתספר #הומור </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7236449257677393154" rel="alternate"/>
-    <published>2023-05-23T18:39:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7236637693038447874</id>
     <title>מי ניצח בסוף בתחרות? #עובדוותיק #הייטקס #הייטק #צרותבהייטק  #מצחיק #הומור</title>
@@ -51,5 +43,13 @@
     <content>איזה דיביל 🤦‍♂️🤦‍♂️🤦‍♂️#עובדוותיק #הייטקס #עבודה #צרותבהייטק #פוריוישראל </content>
     <link href="https://tiktok.com/@shlomizevin/video/7237026537172749569" rel="alternate"/>
     <published>2023-05-25T07:59:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7238274345850719490</id>
+    <title>עללאק עומדות אצלו בתור… #חברמאוס #פוב #פוריו #הומ </title>
+    <updated>2023-05-28T16:41:21+00:00</updated>
+    <content>עללאק עומדות אצלו בתור… #חברמאוס #פוב #פוריו #הומ </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7238274345850719490" rel="alternate"/>
+    <published>2023-05-28T16:41:21+00:00</published>
   </entry>
 </feed>
