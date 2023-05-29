@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-05-29T15:49:43+00:00</updated>
+  <updated>2023-05-29T17:46:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7238274345850719490</id>
-    <title>עללאק עומדות אצלו בתור… #חברמאוס #פוב #פוריו #הומ </title>
-    <updated>2023-05-28T16:41:21+00:00</updated>
-    <content>עללאק עומדות אצלו בתור… #חברמאוס #פוב #פוריו #הומ </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7238274345850719490" rel="alternate"/>
-    <published>2023-05-28T16:41:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7238538983909657857</id>
     <title>השאיר עוד אלפיה אחכ #הימורים #פוקר #חברמאוס #חו״ל #חופשה </title>
@@ -51,5 +43,13 @@
     <content>#פוב #הומור #מצחיק #פוריו #יהודיתונורית </content>
     <link href="https://tiktok.com/@shlomizevin/video/7238632132862545153" rel="alternate"/>
     <published>2023-05-29T15:49:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7238662234564529410</id>
+    <title>כל פעם אותה שיחה בדיוק #חדרכושר #חדכ #אימונים #מצחיק </title>
+    <updated>2023-05-29T17:46:34+00:00</updated>
+    <content>כל פעם אותה שיחה בדיוק #חדרכושר #חדכ #אימונים #מצחיק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7238662234564529410" rel="alternate"/>
+    <published>2023-05-29T17:46:34+00:00</published>
   </entry>
 </feed>
