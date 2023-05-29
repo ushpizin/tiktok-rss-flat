@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-05-29T10:53:51+00:00</updated>
+  <updated>2023-05-29T13:44:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7236788667753254145</id>
-    <title>בלתי נסבל #חדכ #חדרכושר #כושר #אימונים #סאבלימינל  #סאבלימינאלוהצל  #משפחתתאקט  @הצל @סאבלימינל </title>
-    <updated>2023-05-24T16:36:08+00:00</updated>
-    <content>בלתי נסבל #חדכ #חדרכושר #כושר #אימונים #סאבלימינל  #סאבלימינאלוהצל  #משפחתתאקט  @הצל @סאבלימינל </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7236788667753254145" rel="alternate"/>
-    <published>2023-05-24T16:36:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7237026537172749569</id>
     <title>איזה דיביל 🤦‍♂️🤦‍♂️🤦‍♂️#עובדוותיק #הייטקס #עבודה #צרותבהייטק #פוריוישראל </title>
@@ -51,5 +43,13 @@
     <content>#פוב #הומור #פוריו #מצחיק #סטימצקי #ספרים </content>
     <link href="https://tiktok.com/@shlomizevin/video/7238555890570267905" rel="alternate"/>
     <published>2023-05-29T10:53:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7238599866216090882</id>
+    <title>ההדרכה קצת ארוכה אבל אריק ביקש שכולם יעברו אותה. #עובדוותיק  #הייטק #הייטקס #צרותבהייטק </title>
+    <updated>2023-05-29T13:44:32+00:00</updated>
+    <content>ההדרכה קצת ארוכה אבל אריק ביקש שכולם יעברו אותה. #עובדוותיק  #הייטק #הייטקס #צרותבהייטק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7238599866216090882" rel="alternate"/>
+    <published>2023-05-29T13:44:32+00:00</published>
   </entry>
 </feed>
