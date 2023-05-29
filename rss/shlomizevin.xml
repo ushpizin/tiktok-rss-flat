@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-05-29T09:48:15+00:00</updated>
+  <updated>2023-05-29T10:53:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7236711888401288450</id>
-    <title>שר יפה. אבל איזה שיבושי מילים אללה יוסתור #עובדוותיק #עבודה #קולגות #הייטקס #הייטק </title>
-    <updated>2023-05-24T11:38:11+00:00</updated>
-    <content>שר יפה. אבל איזה שיבושי מילים אללה יוסתור #עובדוותיק #עבודה #קולגות #הייטקס #הייטק </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7236711888401288450" rel="alternate"/>
-    <published>2023-05-24T11:38:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7236788667753254145</id>
     <title>בלתי נסבל #חדכ #חדרכושר #כושר #אימונים #סאבלימינל  #סאבלימינאלוהצל  #משפחתתאקט  @הצל @סאבלימינל </title>
@@ -51,5 +43,13 @@
     <content>השאיר עוד אלפיה אחכ #הימורים #פוקר #חברמאוס #חו״ל #חופשה </content>
     <link href="https://tiktok.com/@shlomizevin/video/7238538983909657857" rel="alternate"/>
     <published>2023-05-29T09:48:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7238555890570267905</id>
+    <title>#פוב #הומור #פוריו #מצחיק #סטימצקי #ספרים </title>
+    <updated>2023-05-29T10:53:51+00:00</updated>
+    <content>#פוב #הומור #פוריו #מצחיק #סטימצקי #ספרים </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7238555890570267905" rel="alternate"/>
+    <published>2023-05-29T10:53:51+00:00</published>
   </entry>
 </feed>
