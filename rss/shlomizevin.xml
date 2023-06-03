@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-01T17:18:31+00:00</updated>
+  <updated>2023-06-03T21:45:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7239357524334447873</id>
-    <title>למה שמישו יאמין שהוא מעל 18? #תלמידשרוט  #תלמידים #ביתספר #מצחיק #פוריוישראל </title>
-    <updated>2023-05-31T14:44:37+00:00</updated>
-    <content>למה שמישו יאמין שהוא מעל 18? #תלמידשרוט  #תלמידים #ביתספר #מצחיק #פוריוישראל </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7239357524334447873" rel="alternate"/>
-    <published>2023-05-31T14:44:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7239378292061506817</id>
     <title>העמי הזה צריך לקשור אותו עם רצועה #חופשה #חו״ל  #פוקר #הימוקים #קזינו #מצחיק </title>
@@ -51,5 +43,13 @@
     <content>מעניין אותי אם הוא ישים כסף או לא #רהיטיצדוק  #חופשה #חו״ל #מצחיק</content>
     <link href="https://tiktok.com/@shlomizevin/video/7239768268666440962" rel="alternate"/>
     <published>2023-06-01T17:18:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7240579178687499521</id>
+    <title>אפילו מהיסטוריה לא יכולים להנות אלו #הימורים #ווינר  #פוקר #מצחיק #פוריו </title>
+    <updated>2023-06-03T21:45:30+00:00</updated>
+    <content>אפילו מהיסטוריה לא יכולים להנות אלו #הימורים #ווינר  #פוקר #מצחיק #פוריו </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7240579178687499521" rel="alternate"/>
+    <published>2023-06-03T21:45:30+00:00</published>
   </entry>
 </feed>
