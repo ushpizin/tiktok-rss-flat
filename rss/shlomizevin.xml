@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-03T21:45:30+00:00</updated>
+  <updated>2023-06-04T09:43:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7239378292061506817</id>
-    <title>העמי הזה צריך לקשור אותו עם רצועה #חופשה #חו״ל  #פוקר #הימוקים #קזינו #מצחיק </title>
-    <updated>2023-05-31T16:05:11+00:00</updated>
-    <content>העמי הזה צריך לקשור אותו עם רצועה #חופשה #חו״ל  #פוקר #הימוקים #קזינו #מצחיק </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7239378292061506817" rel="alternate"/>
-    <published>2023-05-31T16:05:11+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7239610560839568642</id>
     <title>מאיפה הוא מביא תמילים האלו 🤦‍♂️🤦‍♂️🤦‍♂️#עובדוותיק  #חופשה #פתאל  #מלון </title>
@@ -51,5 +43,13 @@
     <content>אפילו מהיסטוריה לא יכולים להנות אלו #הימורים #ווינר  #פוקר #מצחיק #פוריו </content>
     <link href="https://tiktok.com/@shlomizevin/video/7240579178687499521" rel="alternate"/>
     <published>2023-06-03T21:45:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7240764336556264705</id>
+    <title>אללה לקחתי בסוף ג׳וק #בבילוןפארק  #משחקיוידאו  #פוריוישראל #פוב #מצחיק </title>
+    <updated>2023-06-04T09:43:46+00:00</updated>
+    <content>אללה לקחתי בסוף ג׳וק #בבילוןפארק  #משחקיוידאו  #פוריוישראל #פוב #מצחיק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7240764336556264705" rel="alternate"/>
+    <published>2023-06-04T09:43:46+00:00</published>
   </entry>
 </feed>
