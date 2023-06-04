@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-04T14:20:31+00:00</updated>
+  <updated>2023-06-04T15:34:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7239704242867490050</id>
-    <title>מה יהיה איתו באמת מה יהיה? #פוקר #חופשה #הימורים #חו״ל </title>
-    <updated>2023-06-01T13:10:03+00:00</updated>
-    <content>מה יהיה איתו באמת מה יהיה? #פוקר #חופשה #הימורים #חו״ל </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7239704242867490050" rel="alternate"/>
-    <published>2023-06-01T13:10:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7239768268666440962</id>
     <title>מעניין אותי אם הוא ישים כסף או לא #רהיטיצדוק  #חופשה #חו״ל #מצחיק</title>
@@ -51,5 +43,13 @@
     <content>יש כאלו שעדיין לא העבירו כסף למתנה של וובה #עובדוותיק  #הייטק #צרותבהייטק #עבודה </content>
     <link href="https://tiktok.com/@shlomizevin/video/7240835656597900545" rel="alternate"/>
     <published>2023-06-04T14:20:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7240854746339282178</id>
+    <title>כמה החיים לא צפויים #יהודיתונורית </title>
+    <updated>2023-06-04T15:34:36+00:00</updated>
+    <content>כמה החיים לא צפויים #יהודיתונורית </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7240854746339282178" rel="alternate"/>
+    <published>2023-06-04T15:34:36+00:00</published>
   </entry>
 </feed>
