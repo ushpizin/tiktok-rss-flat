@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-05T06:31:48+00:00</updated>
+  <updated>2023-06-05T15:11:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7240835656597900545</id>
-    <title>יש כאלו שעדיין לא העבירו כסף למתנה של וובה #עובדוותיק  #הייטק #צרותבהייטק #עבודה </title>
-    <updated>2023-06-04T14:20:31+00:00</updated>
-    <content>יש כאלו שעדיין לא העבירו כסף למתנה של וובה #עובדוותיק  #הייטק #צרותבהייטק #עבודה </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7240835656597900545" rel="alternate"/>
-    <published>2023-06-04T14:20:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7240854746339282178</id>
     <title>כמה החיים לא צפויים #יהודיתונורית </title>
@@ -51,5 +43,13 @@
     <content>רגע. זה הטלפון האמיתי של יודית? 😱😱😱#פוב #בישול  #סולתם  #מטבח  #הומור </content>
     <link href="https://tiktok.com/@shlomizevin/video/7241085938309369090" rel="alternate"/>
     <published>2023-06-05T06:31:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7241219894602124546</id>
+    <title>בדקתי. אין להשיג תכוסות גם לא בחנויות סולתם. #עובדוותיק #צרותבהייטק </title>
+    <updated>2023-06-05T15:11:35+00:00</updated>
+    <content>בדקתי. אין להשיג תכוסות גם לא בחנויות סולתם. #עובדוותיק #צרותבהייטק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7241219894602124546" rel="alternate"/>
+    <published>2023-06-05T15:11:35+00:00</published>
   </entry>
 </feed>
