@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-05T16:09:55+00:00</updated>
+  <updated>2023-06-06T07:38:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7240919887814610178</id>
-    <title>No Title</title>
-    <updated>2023-06-04T19:47:30+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@shlomizevin/video/7240919887814610178" rel="alternate"/>
-    <published>2023-06-04T19:47:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7240920676339567874</id>
     <title>#חברמאוס </title>
@@ -51,5 +43,13 @@
     <content>מי ישמע מה כבר קרה #עובדוותיק </content>
     <link href="https://tiktok.com/@shlomizevin/video/7241234920071515394" rel="alternate"/>
     <published>2023-06-05T16:09:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7241474122197241089</id>
+    <title>אין לי כח לזה נראה לי מוציא יום מחלה #עובדוותיק #הייטק #הייטקס #צרותבהייטק  #פוריו  #משאביאנוש</title>
+    <updated>2023-06-06T07:38:05+00:00</updated>
+    <content>אין לי כח לזה נראה לי מוציא יום מחלה #עובדוותיק #הייטק #הייטקס #צרותבהייטק  #פוריו  #משאביאנוש</content>
+    <link href="https://tiktok.com/@shlomizevin/video/7241474122197241089" rel="alternate"/>
+    <published>2023-06-06T07:38:05+00:00</published>
   </entry>
 </feed>
