@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-07T14:52:31+00:00</updated>
+  <updated>2023-06-07T16:22:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7241610891467246849</id>
-    <title>אין פשוט אין לו תקנה. עלק אדג׳ #הימורים #ווינר #קזינו #פוקר </title>
-    <updated>2023-06-06T16:28:50+00:00</updated>
-    <content>אין פשוט אין לו תקנה. עלק אדג׳ #הימורים #ווינר #קזינו #פוקר </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7241610891467246849" rel="alternate"/>
-    <published>2023-06-06T16:28:50+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7241827060300139782</id>
-    <title>איזה פיספוס #פוריורישראל #עובדוותיק #עבודה </title>
-    <updated>2023-06-07T06:27:39+00:00</updated>
-    <content>איזה פיספוס #פוריורישראל #עובדוותיק #עבודה </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7241827060300139782" rel="alternate"/>
-    <published>2023-06-07T06:27:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7241895046432165121</id>
     <title>וואו איזה ביצוע. הגרסה האקוסטית בdm #עובדוותיק </title>
@@ -51,5 +35,21 @@
     <content>וואי וואי וואי #נטפליקס #פוב #מתח </content>
     <link href="https://tiktok.com/@shlomizevin/video/7241957150505946370" rel="alternate"/>
     <published>2023-06-07T14:52:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7241970684967095553</id>
+    <title>No Title</title>
+    <updated>2023-06-07T15:45:01+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@shlomizevin/video/7241970684967095553" rel="alternate"/>
+    <published>2023-06-07T15:45:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7241980374329330945</id>
+    <title>#duet with @Stav Grupper #חפציבה </title>
+    <updated>2023-06-07T16:22:37+00:00</updated>
+    <content>#duet with @Stav Grupper #חפציבה </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7241980374329330945" rel="alternate"/>
+    <published>2023-06-07T16:22:37+00:00</published>
   </entry>
 </feed>
