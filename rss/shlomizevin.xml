@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-07T12:06:22+00:00</updated>
+  <updated>2023-06-07T14:52:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7241474122197241089</id>
-    <title>אין לי כח לזה נראה לי מוציא יום מחלה #עובדוותיק #הייטק #הייטקס #צרותבהייטק  #פוריו  #משאביאנוש</title>
-    <updated>2023-06-06T07:38:05+00:00</updated>
-    <content>אין לי כח לזה נראה לי מוציא יום מחלה #עובדוותיק #הייטק #הייטקס #צרותבהייטק  #פוריו  #משאביאנוש</content>
-    <link href="https://tiktok.com/@shlomizevin/video/7241474122197241089" rel="alternate"/>
-    <published>2023-06-06T07:38:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7241610891467246849</id>
     <title>אין פשוט אין לו תקנה. עלק אדג׳ #הימורים #ווינר #קזינו #פוקר </title>
@@ -51,5 +43,13 @@
     <content>באמת. מה שנהיה ממך @Stav Grupper  #יהודיתונורית  #סטימצקי  #פוב #הומור #מצחיק </content>
     <link href="https://tiktok.com/@shlomizevin/video/7241914340540943617" rel="alternate"/>
     <published>2023-06-07T12:06:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7241957150505946370</id>
+    <title>וואי וואי וואי #נטפליקס #פוב #מתח </title>
+    <updated>2023-06-07T14:52:31+00:00</updated>
+    <content>וואי וואי וואי #נטפליקס #פוב #מתח </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7241957150505946370" rel="alternate"/>
+    <published>2023-06-07T14:52:31+00:00</published>
   </entry>
 </feed>
