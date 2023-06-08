@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-07T16:22:37+00:00</updated>
+  <updated>2023-06-08T09:08:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7241895046432165121</id>
-    <title>וואו איזה ביצוע. הגרסה האקוסטית בdm #עובדוותיק </title>
-    <updated>2023-06-07T10:51:31+00:00</updated>
-    <content>וואו איזה ביצוע. הגרסה האקוסטית בdm #עובדוותיק </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7241895046432165121" rel="alternate"/>
-    <published>2023-06-07T10:51:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7241914340540943617</id>
     <title>באמת. מה שנהיה ממך @Stav Grupper  #יהודיתונורית  #סטימצקי  #פוב #הומור #מצחיק </title>
@@ -51,5 +43,13 @@
     <content>#duet with @Stav Grupper #חפציבה </content>
     <link href="https://tiktok.com/@shlomizevin/video/7241980374329330945" rel="alternate"/>
     <published>2023-06-07T16:22:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7242239622242176261</id>
+    <title>לא תתן לנו להנות אפילו פעם אחת #תלמידשרוט #ביתספר #תיכון #תלמידים #הומור #מצחיק </title>
+    <updated>2023-06-08T09:08:35+00:00</updated>
+    <content>לא תתן לנו להנות אפילו פעם אחת #תלמידשרוט #ביתספר #תיכון #תלמידים #הומור #מצחיק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7242239622242176261" rel="alternate"/>
+    <published>2023-06-08T09:08:35+00:00</published>
   </entry>
 </feed>
