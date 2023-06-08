@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@schmend_lab</id>
   <title>schmend_lab TikTok</title>
-  <updated>2023-05-16T01:53:08+00:00</updated>
+  <updated>2023-05-16T01:47:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -35,13 +35,5 @@
     <content>אבי ביטר בוכה עם דאבסטפ</content>
     <link href="https://tiktok.com/@schmend_lab/video/7233590957399117057" rel="alternate"/>
     <published>2023-05-16T01:47:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@schmend_lab/video/7233592410423495938</id>
-    <title>אבי ביטר השמח</title>
-    <updated>2023-05-16T01:53:08+00:00</updated>
-    <content>אבי ביטר השמח</content>
-    <link href="https://tiktok.com/@schmend_lab/video/7233592410423495938" rel="alternate"/>
-    <published>2023-05-16T01:53:08+00:00</published>
   </entry>
 </feed>
