@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-11T14:43:02+00:00</updated>
+  <updated>2023-06-11T18:51:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7242374489135271170</id>
-    <title>אמן יפסיד אמן 🙏🙏🙏 #הימורים #ווינר #הומור #מונדיאליטו  #מצחיק  #עמיואורן </title>
-    <updated>2023-06-08T17:52:00+00:00</updated>
-    <content>אמן יפסיד אמן 🙏🙏🙏 #הימורים #ווינר #הומור #מונדיאליטו  #מצחיק  #עמיואורן </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7242374489135271170" rel="alternate"/>
-    <published>2023-06-08T17:52:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7242402532322970882</id>
     <title>לכל מי שתהה #עמיואורן </title>
@@ -51,5 +43,13 @@
     <content>וואלה אין לי איך להסביר #חברמאוס #פוב #פובים #הומור #פוריו </content>
     <link href="https://tiktok.com/@shlomizevin/video/7243439051506781442" rel="alternate"/>
     <published>2023-06-11T14:43:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7243503072054463745</id>
+    <title>#רהיטיצדוק </title>
+    <updated>2023-06-11T18:51:34+00:00</updated>
+    <content>#רהיטיצדוק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7243503072054463745" rel="alternate"/>
+    <published>2023-06-11T18:51:34+00:00</published>
   </entry>
 </feed>
