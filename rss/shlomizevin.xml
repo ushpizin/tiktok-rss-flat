@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-11T12:48:10+00:00</updated>
+  <updated>2023-06-11T14:43:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7242239622242176261</id>
-    <title>לא תתן לנו להנות אפילו פעם אחת #תלמידשרוט #ביתספר #תיכון #תלמידים #הומור #מצחיק </title>
-    <updated>2023-06-08T09:08:35+00:00</updated>
-    <content>לא תתן לנו להנות אפילו פעם אחת #תלמידשרוט #ביתספר #תיכון #תלמידים #הומור #מצחיק </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7242239622242176261" rel="alternate"/>
-    <published>2023-06-08T09:08:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7242374489135271170</id>
     <title>אמן יפסיד אמן 🙏🙏🙏 #הימורים #ווינר #הומור #מונדיאליטו  #מצחיק  #עמיואורן </title>
@@ -51,5 +43,13 @@
     <content>בקרוב דיסק המיטב #עובדוותיק  #הייטקס #עבודה #צרותבהייטק #הומור </content>
     <link href="https://tiktok.com/@shlomizevin/video/7243409451036806402" rel="alternate"/>
     <published>2023-06-11T12:48:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7243439051506781442</id>
+    <title>וואלה אין לי איך להסביר #חברמאוס #פוב #פובים #הומור #פוריו </title>
+    <updated>2023-06-11T14:43:02+00:00</updated>
+    <content>וואלה אין לי איך להסביר #חברמאוס #פוב #פובים #הומור #פוריו </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7243439051506781442" rel="alternate"/>
+    <published>2023-06-11T14:43:02+00:00</published>
   </entry>
 </feed>
