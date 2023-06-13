@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-12T12:52:09+00:00</updated>
+  <updated>2023-06-13T13:39:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7243439051506781442</id>
-    <title>וואלה אין לי איך להסביר #חברמאוס #פוב #פובים #הומור #פוריו </title>
-    <updated>2023-06-11T14:43:02+00:00</updated>
-    <content>וואלה אין לי איך להסביר #חברמאוס #פוב #פובים #הומור #פוריו </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7243439051506781442" rel="alternate"/>
-    <published>2023-06-11T14:43:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7243503072054463745</id>
     <title>#רהיטיצדוק </title>
@@ -51,5 +43,13 @@
     <content>מישהו יודע איפה יש להשיג תדגם? #ksp #פוב #פוריו #הומור #מצחיק </content>
     <link href="https://tiktok.com/@shlomizevin/video/7243781560049224962" rel="alternate"/>
     <published>2023-06-12T12:52:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7244164827239795969</id>
+    <title>מזל טוב 🎉🥳👏🎊🐣👶🍼#דראלברטו  #לידה #הריון #פוב #פוריו </title>
+    <updated>2023-06-13T13:39:24+00:00</updated>
+    <content>מזל טוב 🎉🥳👏🎊🐣👶🍼#דראלברטו  #לידה #הריון #פוב #פוריו </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7244164827239795969" rel="alternate"/>
+    <published>2023-06-13T13:39:24+00:00</published>
   </entry>
 </feed>
