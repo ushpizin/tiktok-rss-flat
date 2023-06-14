@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-13T18:02:51+00:00</updated>
+  <updated>2023-06-14T05:20:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7243669055373200641</id>
-    <title>חברה אל תאמינו לאנשים המצב בים זוועות #עובדוותיק  </title>
-    <updated>2023-06-12T05:35:37+00:00</updated>
-    <content>חברה אל תאמינו לאנשים המצב בים זוועות #עובדוותיק  </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7243669055373200641" rel="alternate"/>
-    <published>2023-06-12T05:35:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7243700757986430209</id>
     <title>מגיח ישר כמו ג׳יני #עובדוותיק #צרותבהייטק  </title>
@@ -51,5 +43,13 @@
     <content>מעניין אם יקח #עמיואורן </content>
     <link href="https://tiktok.com/@shlomizevin/video/7244232714960833793" rel="alternate"/>
     <published>2023-06-13T18:02:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7244407451477462273</id>
+    <title>Replying to @bugofficialpage אני לא מאמין שהוא מצא בסוף #עובדוותיק </title>
+    <updated>2023-06-14T05:20:59+00:00</updated>
+    <content>Replying to @bugofficialpage אני לא מאמין שהוא מצא בסוף #עובדוותיק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7244407451477462273" rel="alternate"/>
+    <published>2023-06-14T05:20:59+00:00</published>
   </entry>
 </feed>
