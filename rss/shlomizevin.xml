@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-17T21:30:58+00:00</updated>
+  <updated>2023-06-18T10:20:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7244979053139135746</id>
-    <title>באמת 💫מה הבעיה💫 #חברמאוס #מצחיק #פוריו </title>
-    <updated>2023-06-15T18:19:06+00:00</updated>
-    <content>באמת 💫מה הבעיה💫 #חברמאוס #מצחיק #פוריו </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7244979053139135746" rel="alternate"/>
-    <published>2023-06-15T18:19:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7244989039714012418</id>
-    <title>#חברמאוס </title>
-    <updated>2023-06-15T18:57:52+00:00</updated>
-    <content>#חברמאוס </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7244989039714012418" rel="alternate"/>
-    <published>2023-06-15T18:57:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7245321782972960002</id>
     <title>#עמיואורן </title>
@@ -51,5 +35,21 @@
     <content>Replying to @tilktwrk טופל</content>
     <link href="https://tiktok.com/@shlomizevin/video/7245770616765287681" rel="alternate"/>
     <published>2023-06-17T21:30:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7245958937864981762</id>
+    <title>צלילי ההייטק #עובדוותיק  #הייטקס #צרותבהייטק #הייטק </title>
+    <updated>2023-06-18T09:41:30+00:00</updated>
+    <content>צלילי ההייטק #עובדוותיק  #הייטקס #צרותבהייטק #הייטק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7245958937864981762" rel="alternate"/>
+    <published>2023-06-18T09:41:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7245968925568077057</id>
+    <title>לא לעניין לעשות בוחן אחרי שהגישו כבר ציונים לתעודה#תלמידשרוט #תלמידים #ביתספר #תיכון #מצחיק #הומור </title>
+    <updated>2023-06-18T10:20:14+00:00</updated>
+    <content>לא לעניין לעשות בוחן אחרי שהגישו כבר ציונים לתעודה#תלמידשרוט #תלמידים #ביתספר #תיכון #מצחיק #הומור </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7245968925568077057" rel="alternate"/>
+    <published>2023-06-18T10:20:14+00:00</published>
   </entry>
 </feed>
