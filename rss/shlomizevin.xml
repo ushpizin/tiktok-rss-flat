@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-20T17:15:17+00:00</updated>
+  <updated>2023-06-20T17:37:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7246061472290327809</id>
-    <title>#עמיואורן </title>
-    <updated>2023-06-18T16:19:24+00:00</updated>
-    <content>#עמיואורן </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7246061472290327809" rel="alternate"/>
-    <published>2023-06-18T16:19:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7246455755874864385</id>
     <title>יום בחיי העובד הוותיק#עובדוותיק #הייטקס #פוריו וריו #מצחיק </title>
@@ -51,5 +43,13 @@
     <content>למה זה תמיד שיחות הזויות #פוב #פובים #פוריו </content>
     <link href="https://tiktok.com/@shlomizevin/video/7246818045614853377" rel="alternate"/>
     <published>2023-06-20T17:15:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7246823665462037761</id>
+    <title>העיקר שהוא עיקבי #חברמאוס </title>
+    <updated>2023-06-20T17:37:07+00:00</updated>
+    <content>העיקר שהוא עיקבי #חברמאוס </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7246823665462037761" rel="alternate"/>
+    <published>2023-06-20T17:37:07+00:00</published>
   </entry>
 </feed>
