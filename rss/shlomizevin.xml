@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-18T16:19:24+00:00</updated>
+  <updated>2023-06-19T17:49:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -43,5 +43,13 @@
     <content>#עמיואורן </content>
     <link href="https://tiktok.com/@shlomizevin/video/7246061472290327809" rel="alternate"/>
     <published>2023-06-18T16:19:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7246455755874864385</id>
+    <title>יום בחיי העובד הוותיק#עובדוותיק #הייטקס #פוריו וריו #מצחיק </title>
+    <updated>2023-06-19T17:49:29+00:00</updated>
+    <content>יום בחיי העובד הוותיק#עובדוותיק #הייטקס #פוריו וריו #מצחיק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7246455755874864385" rel="alternate"/>
+    <published>2023-06-19T17:49:29+00:00</published>
   </entry>
 </feed>
