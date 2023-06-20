@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-20T12:45:34+00:00</updated>
+  <updated>2023-06-20T14:50:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7245958937864981762</id>
-    <title>צלילי ההייטק #עובדוותיק  #הייטקס #צרותבהייטק #הייטק </title>
-    <updated>2023-06-18T09:41:30+00:00</updated>
-    <content>צלילי ההייטק #עובדוותיק  #הייטקס #צרותבהייטק #הייטק </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7245958937864981762" rel="alternate"/>
-    <published>2023-06-18T09:41:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7245968925568077057</id>
     <title>לא לעניין לעשות בוחן אחרי שהגישו כבר ציונים לתעודה#תלמידשרוט #תלמידים #ביתספר #תיכון #מצחיק #הומור </title>
@@ -51,5 +43,13 @@
     <content>בקיץ הקרוב. רוצו לראות!!! #פוריו</content>
     <link href="https://tiktok.com/@shlomizevin/video/7246748539991182594" rel="alternate"/>
     <published>2023-06-20T12:45:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7246780806578932994</id>
+    <title>נשמע מעניין #יזמות #פוב #פונים #מצחיק</title>
+    <updated>2023-06-20T14:50:47+00:00</updated>
+    <content>נשמע מעניין #יזמות #פוב #פונים #מצחיק</content>
+    <link href="https://tiktok.com/@shlomizevin/video/7246780806578932994" rel="alternate"/>
+    <published>2023-06-20T14:50:47+00:00</published>
   </entry>
 </feed>
