@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-22T07:30:46+00:00</updated>
+  <updated>2023-06-22T12:21:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7247103189042859265</id>
-    <title>ארביטראז מטורף #עמיואורן #הימורים #פוקר</title>
-    <updated>2023-06-21T11:41:44+00:00</updated>
-    <content>ארביטראז מטורף #עמיואורן #הימורים #פוקר</content>
-    <link href="https://tiktok.com/@shlomizevin/video/7247103189042859265" rel="alternate"/>
-    <published>2023-06-21T11:41:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7247138350585449730</id>
     <title>#פוריו</title>
@@ -51,5 +43,13 @@
     <content>איך תמיד יש לו חבר #עמיואורן #הימורים #פוריות #מצחיק #פוב #פובים </content>
     <link href="https://tiktok.com/@shlomizevin/video/7247409591028337922" rel="alternate"/>
     <published>2023-06-22T07:30:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7247484599801089281</id>
+    <title>בחיאת שיתפוצץ #עובדוותיק #עבודה #פוריו #צרותבהייטק </title>
+    <updated>2023-06-22T12:21:50+00:00</updated>
+    <content>בחיאת שיתפוצץ #עובדוותיק #עבודה #פוריו #צרותבהייטק </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7247484599801089281" rel="alternate"/>
+    <published>2023-06-22T12:21:50+00:00</published>
   </entry>
 </feed>
