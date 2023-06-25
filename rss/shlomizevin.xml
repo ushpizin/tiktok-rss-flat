@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-25T17:05:26+00:00</updated>
+  <updated>2023-06-25T18:43:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7247821851420822786</id>
-    <title>Replying to @90__mmm נשמע מפחיד הקייזר הזה #עמיואורן </title>
-    <updated>2023-06-23T10:10:33+00:00</updated>
-    <content>Replying to @90__mmm נשמע מפחיד הקייזר הזה #עמיואורן </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7247821851420822786" rel="alternate"/>
-    <published>2023-06-23T10:10:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7248370281687813377</id>
-    <title>#חברמאוס </title>
-    <updated>2023-06-24T21:38:51+00:00</updated>
-    <content>#חברמאוס </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7248370281687813377" rel="alternate"/>
-    <published>2023-06-24T21:38:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7248377338843434242</id>
     <title>#חברמאוס #פיפא #פיפא23 </title>
@@ -51,5 +35,21 @@
     <content>פותח את הראש #הורות #הורים #ילדים #דראלמוג #תינוקות #מצחיק #הומור</content>
     <link href="https://tiktok.com/@shlomizevin/video/7248670939641040129" rel="alternate"/>
     <published>2023-06-25T17:05:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7248693958954487041</id>
+    <title>😍🥰 #עובדוותיק</title>
+    <updated>2023-06-25T18:34:47+00:00</updated>
+    <content>😍🥰 #עובדוותיק</content>
+    <link href="https://tiktok.com/@shlomizevin/video/7248693958954487041" rel="alternate"/>
+    <published>2023-06-25T18:34:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7248696278782201090</id>
+    <title>Replying to @avrahamdostar </title>
+    <updated>2023-06-25T18:43:51+00:00</updated>
+    <content>Replying to @avrahamdostar </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7248696278782201090" rel="alternate"/>
+    <published>2023-06-25T18:43:51+00:00</published>
   </entry>
 </feed>
