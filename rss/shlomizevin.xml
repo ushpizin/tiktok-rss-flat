@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-25T18:43:51+00:00</updated>
+  <updated>2023-06-26T06:03:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7248377338843434242</id>
-    <title>#חברמאוס #פיפא #פיפא23 </title>
-    <updated>2023-06-24T22:06:27+00:00</updated>
-    <content>#חברמאוס #פיפא #פיפא23 </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7248377338843434242" rel="alternate"/>
-    <published>2023-06-24T22:06:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7248604648993459458</id>
     <title>פלוס מינוס בכסף #עמיואורן #הימורים  #קזינו #פוקר #ווינר </title>
@@ -51,5 +43,13 @@
     <content>Replying to @avrahamdostar </content>
     <link href="https://tiktok.com/@shlomizevin/video/7248696278782201090" rel="alternate"/>
     <published>2023-06-25T18:43:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7248871423194926338</id>
+    <title>Replying to @v6v62 מקווה שעזרתי 🙏 #דראלמוג </title>
+    <updated>2023-06-26T06:03:26+00:00</updated>
+    <content>Replying to @v6v62 מקווה שעזרתי 🙏 #דראלמוג </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7248871423194926338" rel="alternate"/>
+    <published>2023-06-26T06:03:26+00:00</published>
   </entry>
 </feed>
