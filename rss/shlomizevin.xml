@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-26T17:19:19+00:00</updated>
+  <updated>2023-06-27T06:54:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7248693958954487041</id>
-    <title>😍🥰 #עובדוותיק</title>
-    <updated>2023-06-25T18:34:47+00:00</updated>
-    <content>😍🥰 #עובדוותיק</content>
-    <link href="https://tiktok.com/@shlomizevin/video/7248693958954487041" rel="alternate"/>
-    <published>2023-06-25T18:34:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7248696278782201090</id>
     <title>Replying to @avrahamdostar </title>
@@ -51,5 +43,13 @@
     <content>#דראלמוג #הורות #ילדים #הומור #מצחיק #פוריוישראל </content>
     <link href="https://tiktok.com/@shlomizevin/video/7249045590384938241" rel="alternate"/>
     <published>2023-06-26T17:19:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7249255741465332993</id>
+    <title>#פוב #פובים #מצחיק #פוריו </title>
+    <updated>2023-06-27T06:54:47+00:00</updated>
+    <content>#פוב #פובים #מצחיק #פוריו </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7249255741465332993" rel="alternate"/>
+    <published>2023-06-27T06:54:47+00:00</published>
   </entry>
 </feed>
