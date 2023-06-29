@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@shlomizevin</id>
   <title>shlomizevin TikTok</title>
-  <updated>2023-06-29T17:15:45+00:00</updated>
+  <updated>2023-06-29T17:34:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://ushpizin.github.io/tiktok-rss-flat/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from shlomizevin</subtitle>
-  <entry>
-    <id>https://tiktok.com/@shlomizevin/video/7249657556509936897</id>
-    <title>למה מול כולם אבל #קרןוטניה #פוב #פובים #הומור #מצחיק #פוריו </title>
-    <updated>2023-06-28T08:54:01+00:00</updated>
-    <content>למה מול כולם אבל #קרןוטניה #פוב #פובים #הומור #מצחיק #פוריו </content>
-    <link href="https://tiktok.com/@shlomizevin/video/7249657556509936897" rel="alternate"/>
-    <published>2023-06-28T08:54:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@shlomizevin/video/7249746674610900225</id>
     <title>#פוב #פוריו #מצחיק #הומור #פובים </title>
@@ -51,5 +43,13 @@
     <content>Replying to @shlomizevin #עמיואורן </content>
     <link href="https://tiktok.com/@shlomizevin/video/7250157938898242818" rel="alternate"/>
     <published>2023-06-29T17:15:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@shlomizevin/video/7250162719645519105</id>
+    <title>#פוריו #הומור #מצחיק #עבודה  #קרןוטניה </title>
+    <updated>2023-06-29T17:34:18+00:00</updated>
+    <content>#פוריו #הומור #מצחיק #עבודה  #קרןוטניה </content>
+    <link href="https://tiktok.com/@shlomizevin/video/7250162719645519105" rel="alternate"/>
+    <published>2023-06-29T17:34:18+00:00</published>
   </entry>
 </feed>
